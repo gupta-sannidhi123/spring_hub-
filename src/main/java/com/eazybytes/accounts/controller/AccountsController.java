@@ -52,7 +52,7 @@ public class AccountsController {
     private AccountsContactInfoDto accountsContactInfoDto;
 
     @Operation(
-            summary = "",
+            summary = "jhgufhgifytfi",
             description = "REST API to create new Customer &  Account inside EazyBank"
     )
     @ApiResponses({
